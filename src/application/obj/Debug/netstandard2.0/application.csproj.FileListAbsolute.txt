@@ -1,0 +1,14 @@
+/home/fabricio/Escritorio/dotnet/src/application/bin/Debug/netstandard2.0/application.deps.json
+/home/fabricio/Escritorio/dotnet/src/application/bin/Debug/netstandard2.0/application.dll
+/home/fabricio/Escritorio/dotnet/src/application/bin/Debug/netstandard2.0/application.pdb
+/home/fabricio/Escritorio/dotnet/src/application/bin/Debug/netstandard2.0/domain.dll
+/home/fabricio/Escritorio/dotnet/src/application/bin/Debug/netstandard2.0/infraestructure.dll
+/home/fabricio/Escritorio/dotnet/src/application/bin/Debug/netstandard2.0/domain.pdb
+/home/fabricio/Escritorio/dotnet/src/application/bin/Debug/netstandard2.0/infraestructure.pdb
+/home/fabricio/Escritorio/dotnet/src/application/obj/Debug/netstandard2.0/application.csprojAssemblyReference.cache
+/home/fabricio/Escritorio/dotnet/src/application/obj/Debug/netstandard2.0/application.AssemblyInfoInputs.cache
+/home/fabricio/Escritorio/dotnet/src/application/obj/Debug/netstandard2.0/application.AssemblyInfo.cs
+/home/fabricio/Escritorio/dotnet/src/application/obj/Debug/netstandard2.0/application.csproj.CoreCompileInputs.cache
+/home/fabricio/Escritorio/dotnet/src/application/obj/Debug/netstandard2.0/application.csproj.CopyComplete
+/home/fabricio/Escritorio/dotnet/src/application/obj/Debug/netstandard2.0/application.dll
+/home/fabricio/Escritorio/dotnet/src/application/obj/Debug/netstandard2.0/application.pdb

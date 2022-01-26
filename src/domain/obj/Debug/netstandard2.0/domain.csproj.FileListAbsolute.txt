@@ -1,0 +1,9 @@
+/home/fabricio/Escritorio/dotnet/src/domain/bin/Debug/netstandard2.0/domain.deps.json
+/home/fabricio/Escritorio/dotnet/src/domain/bin/Debug/netstandard2.0/domain.dll
+/home/fabricio/Escritorio/dotnet/src/domain/bin/Debug/netstandard2.0/domain.pdb
+/home/fabricio/Escritorio/dotnet/src/domain/obj/Debug/netstandard2.0/domain.csprojAssemblyReference.cache
+/home/fabricio/Escritorio/dotnet/src/domain/obj/Debug/netstandard2.0/domain.AssemblyInfoInputs.cache
+/home/fabricio/Escritorio/dotnet/src/domain/obj/Debug/netstandard2.0/domain.AssemblyInfo.cs
+/home/fabricio/Escritorio/dotnet/src/domain/obj/Debug/netstandard2.0/domain.csproj.CoreCompileInputs.cache
+/home/fabricio/Escritorio/dotnet/src/domain/obj/Debug/netstandard2.0/domain.dll
+/home/fabricio/Escritorio/dotnet/src/domain/obj/Debug/netstandard2.0/domain.pdb

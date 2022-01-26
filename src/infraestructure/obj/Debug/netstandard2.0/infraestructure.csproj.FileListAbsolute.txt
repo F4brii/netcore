@@ -1,0 +1,12 @@
+/home/fabricio/Escritorio/dotnet/src/infraestructure/bin/Debug/netstandard2.0/infraestructure.deps.json
+/home/fabricio/Escritorio/dotnet/src/infraestructure/bin/Debug/netstandard2.0/infraestructure.dll
+/home/fabricio/Escritorio/dotnet/src/infraestructure/bin/Debug/netstandard2.0/infraestructure.pdb
+/home/fabricio/Escritorio/dotnet/src/infraestructure/obj/Debug/netstandard2.0/infraestructure.csprojAssemblyReference.cache
+/home/fabricio/Escritorio/dotnet/src/infraestructure/obj/Debug/netstandard2.0/infraestructure.AssemblyInfoInputs.cache
+/home/fabricio/Escritorio/dotnet/src/infraestructure/obj/Debug/netstandard2.0/infraestructure.AssemblyInfo.cs
+/home/fabricio/Escritorio/dotnet/src/infraestructure/obj/Debug/netstandard2.0/infraestructure.csproj.CoreCompileInputs.cache
+/home/fabricio/Escritorio/dotnet/src/infraestructure/obj/Debug/netstandard2.0/infraestructure.dll
+/home/fabricio/Escritorio/dotnet/src/infraestructure/obj/Debug/netstandard2.0/infraestructure.pdb
+/home/fabricio/Escritorio/dotnet/src/infraestructure/bin/Debug/netstandard2.0/domain.dll
+/home/fabricio/Escritorio/dotnet/src/infraestructure/bin/Debug/netstandard2.0/domain.pdb
+/home/fabricio/Escritorio/dotnet/src/infraestructure/obj/Debug/netstandard2.0/infraestructure.csproj.CopyComplete
